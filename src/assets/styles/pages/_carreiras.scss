@@ -1,0 +1,44 @@
+.breadcrumb{
+    @media(max-width: 769px) {
+        margin-bottom: 30px;
+    }
+    .breadcrumb-text{
+        color: #FFFFFF;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 130%;
+        text-decoration: none;
+        
+    }
+    .breadcrumb-text-vagas {
+        color: #FFFFFF;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 23px;
+        text-decoration: none;
+        
+    }
+    .breadcrumb-text-button {
+        background: none;
+        border-style: none;
+        cursor: pointer;
+
+        color: #FFFFFF;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 23px;
+        text-decoration: none;
+    }
+}
+
+.pesquises-container {
+    width: 30%;
+    
+}
+

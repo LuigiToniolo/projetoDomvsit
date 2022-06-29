@@ -1,0 +1,133 @@
+#news {
+    display: grid;
+    grid-template-columns: repeat(4, 20.4vw);
+    margin-right: 0px;
+    margin-left: 0px;
+    
+    @media only screen and (max-width: 780px){
+        grid-template-columns: 1fr;
+        width: 100%;
+        flex-direction: column;
+        margin-left: 0px;
+        
+    }
+    .news-cardbox {
+        margin: 25px;
+        width: 90%;
+        position: relative;
+        background: linear-gradient(180deg, rgba(245, 246, 250, 0.2) 0%, rgba(245, 246, 250, 0) 100%);
+        color: $white;
+        box-sizing: border-box;
+        flex: 1 0 21%;
+        &:first-child {
+            margin-right: 20px;
+        }
+        
+        &:nth-child(5n) {
+            margin-right: 20px;
+        }
+        &:nth-child(4n) {
+            margin-right: 20px;
+        }&:first-child {
+            margin-right: 20px;
+        }
+        
+        @media only screen and (max-width: 780px){
+            margin-left: 11px;
+            width: 92%;
+            &:first-child {
+                margin-left: 11px;
+            }
+            &:nth-child(5n) {
+                margin-left: 11px;
+            }
+            &:nth-child(4n) {
+                margin-left: 11px;
+            }
+        }
+        .news-channel {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background-color: rgba(26, 34, 66, 0.8);
+            color: $white;
+            padding: 4px;
+            font-size: 16px;
+            border-radius: 4px;
+            z-index: 1;
+        }
+        a {
+            color: $white;
+            text-decoration: none;
+            .image-container{
+                height: 22vh;
+                overflow: hidden;
+                position: relative;
+                img {
+                    max-width: 100%;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                }
+            }
+            .link-saiba-mais{
+                text-decoration: underline; 
+                color: #5268be;
+                margin: 16px;
+                line-height: 24px;
+                font-size: 16px;
+                font-weight: 500;
+            }:hover{
+                text-decoration:none; 
+                color: #48494d; 
+            }
+            .newscard-body {
+                padding: 16px;
+                .news-date {
+                    font-size: 14px;
+                    margin-top: 16px;
+                    margin-bottom: 16px;
+                    font-weight: 400;
+                    color: #D7DBEB;
+                }
+                // .news-title {
+                //     font-size: 22px;
+                //     font-weight: bold;
+                // }
+                .news-description {
+                    color: #D7DBEB;
+                    line-height: 24px;
+                    font-size: 16px;
+                    font-weight: 500;
+                }
+            }
+        }
+    }
+    
+    
+}
+    
+    .seemore-button{
+        background-color: $dark-blue;
+        margin: auto;
+        color: $white;
+        padding: 20px 55px;
+        border-radius: 4px;
+        border: 1px solid rgba(215, 219, 235, 0.3);
+        margin-top: 30px;
+        margin-bottom: 20px;
+        margin-left: 35.4vw;
+        white-space: nowrap;
+        cursor: pointer;
+        @media only screen and (min-width: 1920px){
+            margin-left: 36.7vw;
+        }
+        @media only screen and (max-width: 780px){
+            margin-left: 20vw;
+        }
+    }
+
+    // .botao-news{
+    //     display: flex;
+    //     justify-content: center;
+    // }

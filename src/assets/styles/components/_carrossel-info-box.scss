@@ -1,0 +1,61 @@
+.Carrossel-info-box{
+  width: 100%;
+}
+
+.primeiro-card {
+  //width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 60px;
+  @media screen and (max-width: 780px) {
+    margin-left: 20px;
+  }
+}
+
+.segundo-card {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 59px;
+  @media screen and (max-width: 780px) {
+    margin-left: 20px;
+  }
+}
+
+.terceiro-card {
+  //width: 50%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-left: 60px;
+  @media screen and (max-width: 780px) {
+    margin-left: 20px;
+  }
+}
+
+.carousel.carousel-slider .control-arrow {
+  width: 50px;
+  height: 50px;
+  margin-top: 70px;
+  @media only screen and (max-width: 780px){
+    display: none;
+  }
+}
+
+
+.control-dots{
+  display: none;
+}
+
+.carousel-status {
+  display: none;
+}
+
+.thumbs.animated{
+  display: none;
+}
+
+.carousel .slice{
+  min-width: 49.3vw;
+}

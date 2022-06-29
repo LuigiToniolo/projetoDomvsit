@@ -1,0 +1,149 @@
+{
+    "vagas": {
+      "count": "15",
+    "filtros": {
+      "Estados": ["Todos", "RJ (5) ", "SP(8)", "RS(14)"],
+      "Cidades": ["Todos", "São Paulo (12)", "Rio de Janeiro (15)", "Porto Alegre (25)", "São Carlos (5)", "Caxias do Sul (7)"],
+      "Área de Atuação": ["Todos", "Desenvolvimento (4)", "Comercial (7)", "Recursos humanos (9)"]
+  },
+    
+      "results":[
+      {
+        "id": "vaga-comercial",
+        "titulo": "Comercial",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "teste": "<p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;\"><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Nossa Empresa<\/span><\/p><p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal\"><b style=\"font-weight:normal;\" id=\"docs-internal-guid-40767781-7fff-ad13-2ea6-7218c22a2fd1\"><br><\/b><\/p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;\"><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Uma consultoria de TI focada em oferecer excelência aos nossos Clientes e desenvolvimento aos nossos Colaboradores, através de soluções, pessoas e processos pensados para cada necessidade de negócio.&nbsp;<\/span><\/p><p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal\"><b style=\"font-weight:normal;\"><br><\/b><\/p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;\"><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Buscamos e valorizamos as relações sólidas e a transparência nas ações como nosso maior patrimônio.<\/span><\/p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;\"><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Temos mais de 7 anos no mercado de TI, prezamos pelo engajamento, desenvolvimento e acolhimento das pessoas que trabalham em nosso time.<\/span><\/p><p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal\"><b style=\"font-weight:normal;\"><br><\/b><\/p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;\"><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Buscamos profissionais com sede de tecnologia,&nbsp; que curta muuuito novos desafios e que seja apaixonado pelo que faz!&nbsp;<\/span><\/p><p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal\"><b style=\"font-weight:normal;\"><br><\/b><\/p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;\"><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">Valorizamos o espírito de equipe, por isso é importante que você também valorize.<\/span><\/p><p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal\"><\/p><p dir=\"ltr\" style=\"line-height:1.2;margin-top:0pt;margin-bottom:7.5pt;\"><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\">#tamojunto<\/span><\/p><div><span style=\"font-size:10.5pt;font-family:Arial;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;\"><br><\/span><\/div><p class=\"MsoNormal\" style=\"margin-bottom:7.5pt;line-height:normal\"><span style=\"font-size:12.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:\r\n&quot;Times New Roman&quot;;color:#555555;mso-fareast-language:PT-BR\"><span style=\"font-size: 14px;\">&nbsp;<\/span><o:p><\/o:p><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%;font-family:&quot;Arial&quot;,sans-serif;\r\nmso-fareast-language:PT-BR\"><br><span style=\"font-size: 14px;\">\r\n<\/span><br><span style=\"font-size: 14px;\">\r\n<\/span><!--[if !supportLineBreakNewLine]--><br><span style=\"font-size: 14px;\">\r\n<\/span><!--[endif]--><o:p><\/o:p><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%;font-family:\r\n&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><span style=\"font-size: 14px; font-weight: bold;\"><font color=\"#000000\">O que te destaca:<\/font><\/span><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%;font-family:\r\n&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><font color=\"#000000\"><span style=\"font-size: 14px;\"><br><\/span><o:p><\/o:p><\/font><\/span><\/p><p class=\"MsoNormal\"><font color=\"#000000\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\">• <\/span><span style=\"font-size:12.0pt;\r\nline-height:107%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><span style=\"font-size: 14px;\">Conhecimentos\r\navançados em React;<\/span><o:p><\/o:p><\/span><\/font><\/p><p class=\"MsoNormal\"><font color=\"#000000\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\">• <\/span><span style=\"font-size:12.0pt;\r\nline-height:107%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><span style=\"font-size: 14px;\">Conhecimentos\r\navançados em .NET Core;<\/span><o:p><\/o:p><\/span><\/font><\/p><p class=\"MsoNormal\"><font color=\"#000000\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\">• <\/span><span style=\"font-size:12.0pt;\r\nline-height:107%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><span style=\"font-size: 14px;\">Conhecimentos\r\nintermediários em AWS (EC2, S3, RDS, Lambda, SNS\/SQS); <\/span><o:p><\/o:p><\/span><\/font><\/p><p class=\"MsoNormal\"><font color=\"#000000\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\">• <\/span><span style=\"font-size:12.0pt;\r\nline-height:107%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><span style=\"font-size: 14px;\">Experiência\r\nem banco de dados relacional;<\/span><o:p><\/o:p><\/span><\/font><\/p><p class=\"MsoNormal\"><font color=\"#000000\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\">• <\/span><span style=\"font-size:12.0pt;\r\nline-height:107%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><span style=\"font-size: 14px;\">Experiência\r\nem levantamento de requisito. <\/span><o:p><\/o:p><\/span><\/font><\/p><p class=\"MsoNormal\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\"><font color=\"#000000\">&nbsp;<\/font><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif; font-weight: bold;\"><font color=\"#000000\">Benefícios:<\/font><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\"><font color=\"#000000\">• VR;<\/font><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\"><font color=\"#000000\">• AM;<\/font><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size: 14px; line-height: 107%; font-family: Arial, sans-serif;\"><font color=\"#000000\">• AO.<br><br><br><\/font><\/span><\/p><p class=\"MsoNormal\"><font color=\"#000000\"><br><\/font><\/p><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%;font-family:\r\n&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><font color=\"#000000\"><span style=\"font-size: 14px;\"><br><\/span><o:p><\/o:p><\/font><\/span><\/p><p class=\"MsoNormal\"><span style=\"font-size:12.0pt;line-height:107%;font-family:\r\n&quot;Arial&quot;,sans-serif;mso-fareast-language:PT-BR\"><font color=\"#000000\"><span style=\"font-size: 14px;\">A empresa fica localizada em São\r\nPaulo, mas para ficar melhor ainda é 100% remoto. <\/span><o:p><\/o:p><\/font><\/span><\/p><p style=\"margin-top:0cm;margin-right:0cm;margin-bottom:7.5pt;margin-left:0cm\"><font color=\"#000000\"><br><\/font><\/p><p dir=\"ltr\" style=\"line-height:1.5539999999999998;margin-left: 36pt;margin-top:0pt;margin-bottom:8pt;\"><br><\/p>",
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro "
+      },
+      {
+        "id": "vaga-desenvolvedor",
+        "titulo": "Desenvolvedor Frontend (UI e React)",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RS",
+        "cidade": "Porto Alegre"
+      },
+      {
+        "id": "vaga-desenvolvedor",
+        "titulo": "Desenvolvedor Frontend (UI e React)",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "SP",
+        "cidade": "São Paulo"
+      },
+      {
+        "id": "vaga-comercial",
+        "titulo": "Comercial",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro "
+      },
+      {
+        "id": "vaga-comercial",
+        "titulo": "Comercial",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "SP",
+        "cidade": "São Paulo"
+      },
+      {
+        "id": "vaga-comercial",
+        "titulo": "Comercial",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RS",
+        "cidade": "Caxias do Sul"
+      },
+      {
+        "id": "recursos-humanos",
+        "titulo": "Recursos Humanos",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "SP",
+        "cidade": "São Carlos"
+      },
+      {
+        "id": "recursos-humanos",
+        "titulo": "Recursos Humanos",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "SP",
+        "cidade": "São Carlos"
+      },
+      {
+        "id": "recursos-humanos",
+        "titulo": "Recursos Humanos",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RJ",
+        "cidade": "Porto Alegre"
+      },
+      {
+        "id": "recursos-humanos",
+        "titul": "Recursos Humanos",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RS",
+        "cidade": "Caxias do Sul"
+      },
+      {
+        "id": "recursos-humanos",
+        "titulo": "Recursos Humanos",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RJ",
+        "cidade": "Rio de Janeiro"
+      },
+      {
+        "id": "vaga-desenvolvedor",
+        "titulo": "Desenvolvedor Frontend (UI e React)",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RS",
+        "cidade": "Porto Alegre"
+      },
+      {
+        "id": "vaga-desenvolvedor",
+        "titulo": "Desenvolvedor Frontend (UI e React)",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RS",
+        "cidade": "Porto Alegre "
+      },
+      {
+        "id": "recursos-humanos",
+        "titulo": "Recursos Humanos",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "SP",
+        "cidade": "São Paulo"
+      },
+      {
+        "id": "recursos-humanos",
+        "titulo": "Recursos Humanos",
+        "nivelExperiencia": "Experiência: Pleno",
+        "descricao": ["Atuação no desenvolvimento de novas features e novos produtos em times ágeis, utilizando Jira para controle dos processos de priorização do backlog e Sprints;", "Tenha forte capacidade analítica com perfil organizado e crítico para auxiliar em melhorias e novas elaboração de soluções de arquitetura e engenharia;", "Springboot;", "Camel;", "Angular JS e Angular 11;", "Java;", "Aplicação em websphere;", "Broker;", "Sybase, SQL, Oracle;", "Arquitetura microserviços;", "GCP."],
+        "beneficios": ["Vale Refeição;", " Ass. Médica; ", "Ass. Odontológica;", "Vale transporte;", "Parceria com Universidades;", "Academia pass;", "Recrutamento Interno;", "Plataforma especializada em atendimento psicológico;", "Eventos internos;", "Comunidades para troca de conhecimento;", "Monitoria."],
+        "estado": "RS",
+        "cidade": "Caxias do Sul"
+      }
+    ]
+  }
+  }

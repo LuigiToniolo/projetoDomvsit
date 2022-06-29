@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: $dark-blue;    
+    font-family: 'Montserrat', sans-serif;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.section-title {
+    font-size: 1px;
+    margin-top: 50px;
+    margin-bottom: 35px;
+    padding-top: 80px;
+    text-align: leff;
+    background: -webkit-linear-gradient(#2D3A71, #242E5A);
+    //-webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

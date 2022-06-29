@@ -1,0 +1,84 @@
+#vagas {
+    margin-bottom: 50px;
+}
+
+.titulo-nossa-empresa {
+    color: #FFFFFF;
+    margin-bottom: 8px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.descricao-nossa-empresa {
+    color: #D7DBEB;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    font-size: 16px;
+}
+.descricao{
+
+    .titulo-vaga{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 22px;
+        line-height: 41px;
+        color: #FFFFFF;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+        margin: 8px 0px;
+    }
+    .subtitulo-vaga{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 130%;
+        margin: 8px 0px;
+        color: #D7DBEB;
+    }
+    .titulo-empresa{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 130%;
+        margin: 30px 0px 0px;
+        color: #FFFFFF;
+    }
+    .subtitulo-empresa{
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 130%;
+        color: #D7DBEB;
+        flex: none;
+        order: 1;
+        flex-grow: 0;
+        margin: 8px 0px;
+    }
+    .titulos-vaga{
+        color: #FFFFFF;
+        margin-bottom: 8px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .conteudo-vaga {
+        color: #D7DBEB;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        line-height: 21px;
+        font-size: 16px;
+    }
+
+    .listaDetalhe {
+        margin-left: 2%;
+    }
+
+}

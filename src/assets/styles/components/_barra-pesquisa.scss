@@ -1,0 +1,125 @@
+.barra-pesquisa{
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  border-radius: 4px;
+  display: flex;
+  width: 100%;
+  height: 40px;
+  padding: 0.4%;
+  background-color: transparent;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 130%;
+  color: white;
+}
+.lista-pesquisa {
+li{
+  padding: 5px 0;
+  @media(max-width: 768px){
+    width: 100%;
+    .barra-pesquisa:hover{
+      border: 1px solid rgba(255, 255, 255, 0.7);
+      }
+    }
+  }
+}
+  #text-field-container #editing-view-port {
+    color: rgba(255, 255, 255, 0.7);
+    font-size:14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 130%;
+  }
+.lista-pesquisa {
+  li{
+    padding: 5px 0;
+    @media(max-width: 768px){
+    border-bottom: 1px solid $white;
+    background-color:linear-gradient(90deg, #2A3252 0%, #495170 103%);
+    }
+  }
+  color: $white;
+  flex-direction: column;
+  grid-template-columns: repeat(
+    auto-fit,
+    minmax(200px, 1fr)
+  );
+  list-style: none;
+  grid-gap: 1.5rem;
+}
+.lista-pesquisa img {
+  max-width: 100%;
+}
+.formulario-pesquisa{
+  display: flex;
+  align-items: flex-start;
+  width: 254%;
+  @media(max-width: 768px){
+    margin-bottom: 30px;
+    width: auto;
+  }
+}  
+.lupa{
+  height: 30px;
+  }
+  img.lupa{
+    margin-top: 2px;
+  }
+.container-pesquisa{
+  font-family: sans-serif;
+  text-align: center;
+  flex-direction: column;
+  display: flex;
+  width: 38%;
+  @media(max-width: 768px){
+    width: 200%;
+    }
+}
+.filtro-titulo{
+color: #FFFFFF;
+display: flex;
+align-items: flex-start;
+margin-top: 20px;
+}
+.filtro-li{
+  list-style: none;
+  padding: 10px 25px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 130%;
+  color: #FFFFFF;
+  flex-grow: 0;
+  margin: 10px 4px;
+  background-color: #2A3252;
+  width: auto;
+  border-radius: 3px;
+}
+.filtro-li:first-child {
+  color:#1A2242;
+  background-color: #FFFFFF;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 130%;
+  order: 0;
+  flex-grow: 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.container-filtro {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column ;
+  margin-right: 0;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+#contato {
+    background-color: $ultra-dark-blue;
+    box-sizing: border-box;
+    color: $white;
+    padding: 80px;
+    margin-top: 1%;
+    @media screen and (min-width: 1820px) {
+        margin-top: 0px;
+    }
+    @media only screen and (max-width: 780px) {
+        padding: 0px;
+        padding-bottom: 10%;
+    }
+
+    .home-contact {
+        display: flex;
+        justify-content: space-between;
+        @media only screen and (max-width: 780px) {
+            flex-direction: column;
+            padding: 20px 0px;
+        }
+        .half {
+            width: 50%;
+            @media only screen and (max-width: 780px) {
+                width: 100%;
+            }
+            .contact-title {
+                margin-top: 40px;
+                font-size: 28px;
+                font-weight: 700;
+                font-style: normal;
+                line-height: 28px;
+                color: $white;
+            }
+            .contact-subtitle {
+                font-size: 16px;
+                font-weight: normal;
+                font-style: normal;
+                line-height: 42px;
+                color: #f5f6fa;
+                margin-top: 16px;
+            }
+        }
+        .contact-textbox {
+            position: relative;
+            .bottontext {
+                margin-top: 20px;
+                bottom: 0;
+                line-height: 22px;
+                @media only screen and (max-width: 780px) {
+                    position: relative;
+                    bottom: none;
+                    margin-top: 30px;
+                    margin-bottom: 40px;
+                }
+            }
+        }
+
+        .form {
+            max-width: 100%;
+            padding-right: 0px;
+            margin-left: 40px;
+            @media screen and (min-width: 1820px) {
+                padding-right: 80px;
+            }
+            @media only screen and (max-width: 780px) {
+                margin-left: 0px;
+                padding: 0px;
+            }
+            label {
+                position: relative;
+                width: 50%;
+                display: inline-block;
+                @media only screen and (max-width: 780px) {
+                    width: 100%;
+                }
+                span {
+                    position: absolute;
+                    top: 32px;
+                    left: 10px;
+                    background-color: $ultra-dark-blue;
+                    padding: 2px;
+                    font-weight: 700;
+                    font-size: 12px;
+                    color: $white;
+                }
+                input,
+                select {
+                    padding: 10px;
+                    width: 86%;
+                    background-color: $ultra-dark-blue;
+                    border: 1px solid rgba(215, 219, 235, 0.3);
+                    border-radius: 3px;
+                    margin-top: 42px;
+                    color: $white;
+                    @media only screen and (max-width: 780px) {
+                        width: 100%;
+                        box-sizing: border-box;
+                    }
+                    &:focus {
+                        border: 1px solid #b9b9b9;
+                    }
+                    @media only screen and (max-width: 780px) {
+                        width: 100;
+                    }
+                }
+
+                select {
+                    width: 93%;
+                    @media only screen and (max-width: 780px) {
+                        width: 100%;
+                        box-sizing: border-box;
+                    }
+                }
+                
+            }
+            .messagelabel {
+                width: 100%;
+                color: $white;
+            }
+            .botao-enviar {
+                cursor: pointer; 
+                padding: 16px 32px;
+                border: none;
+                float: right;
+                margin-right: 4%;
+                box-sizing: border-box;
+                text-decoration: none;
+                background: $white;
+                border-radius: 4px;
+                color: $dark-blue;
+                font-style: normal;
+                font-weight: bold;
+                font-size: 15px;
+                line-height: 150%;
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                text-transform: uppercase;
+                display: block;
+                margin-top: 40px;
+                width: 45%;
+                text-align: center;
+                white-space : nowrap;
+                @media only screen and (min-width: 200px) and (max-width: 780px) {
+                    width: 100%;
+                    margin-right: 0px;
+                }
+            }
+            .form-message {
+                width: 100%;
+                display: block;
+                box-sizing: border-box;
+                margin-top: 15px;
+                padding: 10px;
+                text-align: center;
+                border: 1px solid transparent;
+                &.-positive {
+                    color: #155724;
+                    background-color: #d4edda;
+                    border-color: #c3e6cb;
+                }
+                &.-negative {
+                    color: #721c24;
+                    background-color: #f8d7da;
+                    border-color: #f5c6cb;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+@import 'colors';
+@import 'commons';
+@import 'responsivesizes';
+
+
+@import './components/layout/container';
+@import './components/layout/siteSection';
+@import './components/oportunidade';
+@import 'components/banner';
+@import 'components/navbar';
+@import 'components/carousel';
+@import 'components/cards';
+@import 'components/verticais';
+@import 'components/accordion';
+@import 'components/oportunidade';
+@import 'components/news';
+@import 'components/footer';
+@import './components/upload';
+@import './components/barra-pesquisa';
+@import './components/navbar-carreiras';
+@import './components/search-carreiras';
+@import './components/descricao-vagas';
+@import './components/footer-vagas';
+@import './components/cadastrar-vaga';
+@import './components/formulario-cadastro';
+@import './components/barra-loading-descricao';
+@import './components/barra-loading-search';
+@import './components/error';
+@import './components/select-linguas';
+@import './components/filtros';
+@import './components/carrossel-info-box';
+@import './components/cards-info';
+@import './components/lenguage-mobile';
+@import './components/squad-section';
+@import './components/squad-section-carousel';
+
+@import './components/aboutUs-Consult';
+@import './components/aboutUs-Inovation';
+
+@import './pages/contact-home';
+@import './pages/aboutUs';
+@import './pages/services';
+@import './pages/carreiras';
+@import './pages/vagas';
+@import './pages/cases';

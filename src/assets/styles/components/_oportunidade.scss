@@ -1,0 +1,82 @@
+.oportunidade {
+    background: linear-gradient(269.37deg, rgba(17, 21, 42, 0.4) 0%, rgba(17, 21, 42, 0.1) 100%);
+    justify-items: center;
+    display: flex;
+    color: $white;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+    position: relative;
+    width: 100%;
+    @media only screen and (max-width: 780px) {
+        position: relative;
+        width: 100%;
+        line-height: 150%;
+    }
+    
+    &-texts{
+        align-items: center;
+    }
+    &-title {
+        width: 70%;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 22px;
+        line-height: 150%;
+        @media only screen and (max-width: 780px) {
+            width: 300px;
+            font-size: 16px;
+        }
+    }
+    
+    &-subtitle {
+        font-size: 16px;
+        font-weight: normal;
+        line-height: 150%;
+        color: #D7DBEB;
+        margin-top: 8px;
+        @media only screen and (max-width: 780px) {
+            margin-bottom: 40px;
+            margin-top: 0px;
+            font-size: 14px;
+        }
+    }
+    &-button-interno {
+        border-radius: 4px;
+        text-decoration: none;
+        list-style-type: none;
+        color: $dark-blue;
+        list-style-type: none;
+        background-color: $white;
+        padding: 16px 32px;
+        box-sizing: border-box;
+        font-weight: 700;
+        float: right;
+        white-space: nowrap;
+        margin-top: -75px;
+
+        @media only screen and (max-width: 780px) {
+            float: none;
+            display: block;
+            text-align: center;
+            margin-top: 15px;
+            width: 100%;
+        }
+        @media only screen and (min-width: 1920px){
+            margin-top: -60px;
+        }
+    }
+    &-button {
+        text-decoration: none;
+        list-style-type: none;
+        @media only screen and (max-width: 780px) {
+            float: none;
+            display: block;
+            text-align: center;
+            margin-top: 15px;
+            width: 100%;
+        }
+
+    }
+}

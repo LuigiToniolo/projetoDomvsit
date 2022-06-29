@@ -1,0 +1,166 @@
+.formulario {
+    max-width: 100%;
+    padding-right: 0px;
+    margin-left: 40px;
+    @media screen and (min-width: 1820px) {
+        padding-right: 80px;
+    }
+    @media only screen and (max-width: 780px) {
+        margin-left: 0px;
+        padding: 0px;
+    }
+    label {
+        position: relative;
+        width: 50%;
+        display: inline-block;
+
+        @media only screen and (max-width: 780px) {
+            width: 100%;
+        }
+        span {
+            position: absolute;
+            top: 32px;
+            left: 10px;
+            background-color: #1A2242;
+            padding: 2px;
+            font-weight: 700;
+            font-size: 14px;
+            color: $white;
+        }
+        input,
+        select {
+            padding: 10px;
+            width: 86%;
+            background-color: transparent;
+            border: 1px solid rgba(215, 219, 235, 0.3);
+            border-radius: 3px;
+            margin-top: 42px;
+            color: $white;
+            @media only screen and (max-width: 780px) {
+                width: 100%;
+                box-sizing: border-box;
+            }
+            &:focus {
+                border: 1px solid #b9b9b9;
+            }
+            @media only screen and (max-width: 780px) {
+                width: 100;
+            }
+        }
+
+        select {
+            width: 93%;
+            @media only screen and (max-width: 780px) {
+                width: 100%;
+                box-sizing: border-box;
+            }
+        }
+
+        
+    }
+
+    .perfil-linkedin {
+        position: relative;
+        width: 108%;
+        display: inline-block;
+        .titulo-linkedin {
+            position: absolute;
+            top: 32px;
+            left: 10px;
+            background-color: #1A2242;
+            padding: 2px;
+            font-weight: 700;
+            font-size: 14px;
+            color: $white;
+        }
+        .input-linkedin {
+            padding: 10px;
+            background-color: transparent;
+            border: 1px solid rgba(215, 219, 235, 0.3);
+            border-radius: 3px;
+            margin-top: 42px;
+            color: $white;
+        }
+    }
+
+    .messagelabel {
+        width: 100%;
+        color: $white;
+    }
+    .botao-candidatar {
+        cursor: pointer; 
+        padding: 16px 0px;
+        border: none;
+        float: left;
+        margin-right: 4%;
+        box-sizing: border-box;
+        text-decoration: none;
+        background: $white;
+        border-radius: 4px;
+        color: $dark-blue;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 150%;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        
+        display: block;
+        margin-top: 40px;
+        width: 45%;
+        text-align: center;
+        white-space : nowrap;
+        @media only screen and (min-width: 200px) and (max-width: 780px) {
+            width: 100%;
+            margin-right: 0px;
+        }
+    }
+    .form-message {
+        width: 100%;
+        display: block;
+        box-sizing: border-box;
+        margin-top: 15px;
+        padding: 10px;
+        text-align: center;
+        border: 1px solid transparent;
+        &.-positive {
+            color: #155724;
+            background-color: #d4edda;
+            border-color: #c3e6cb;
+        }
+        &.-negative {
+            color: #721c24;
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+        }
+    }
+    .upload-curriculo{
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 15px;
+        color: #F5F6FA;
+    }
+    .message-feedback {
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 15px;
+        color: #F5F6FA;
+        position: absolute;
+        margin: 5px 0;
+    }
+    .message-submit {
+        font-weight: 600;
+        font-size: 14px;
+        margin: 15px 0;
+    }
+
+    .label-upload {
+        width: 97%;
+    }
+    .is-invalid {
+        border: 1px solid #721c24;
+    }
+}

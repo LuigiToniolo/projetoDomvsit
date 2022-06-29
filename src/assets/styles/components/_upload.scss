@@ -1,0 +1,67 @@
+
+.dropzone {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    border: 1px solid #5E6DB0;
+    border-style: dashed ;
+    border-radius: 3px;
+    cursor: pointer;
+    background: linear-gradient(90deg, rgba(42, 50, 82, 0.3) 0%, rgba(73, 81, 112, 0.3) 103%);
+    justify-content: center;
+    margin-top: 30px;
+    outline: 0;
+    .titulo-drag {
+      color: white;
+    }
+  
+  
+  .drag-file{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+  }
+  .dropzone img {
+    width: 100%;
+    height: 100%;
+  }
+  .conteudo-drag{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin-left: 15px;
+  }
+  .titulo-drag{
+    color: white;
+    display: flex;
+    margin-bottom: 5px;
+  }
+  .descricao-drag {
+    color: #D7DBEB;
+    display: flex;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+  }
+  
+  .dropzone p svg {
+    color: #79ab7f;
+    width: 24px;
+    height: 24px;
+    margin-bottom: 8px;
+  }
+
+  .arquivo-enviado {
+    width: auto;
+    position: relative;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 30px;
+    display: flex;
+    justify-content: center;
+  }
+}

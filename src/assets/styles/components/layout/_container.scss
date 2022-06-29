@@ -1,0 +1,15 @@
+.container {
+    margin: 0 auto;
+    box-sizing: border-box;
+    max-width: 100%;
+    @media only screen and (max-width: 780px){
+        overflow: hidden;
+    }
+    &.-box {
+        width: 85vw;
+        
+    }
+    &.-fluid {
+        width: 100vw;
+    }
+}

@@ -1,0 +1,33 @@
+.site-section {
+    @media only screen and (max-width: 780px){
+        min-height: 100vh;
+    } 
+}
+.section-title {
+    font-size: 100px;
+    margin-top: 0px;
+    margin-left: 80px;
+    margin-bottom: 35px;
+    padding-top: 80px;
+    text-align: left;
+    background: -webkit-linear-gradient(#2D3A71, #242E5A);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    @media screen and (min-width: 1720px) {
+        margin-left: 120px;
+        font-size: 120px;
+        margin-top: 50px;
+        margin-bottom: 35px;
+        padding-top: 100px;
+    }
+    @media only screen and (max-width: 780px){
+        margin-left: 25px;
+        margin-top: 100px;
+        margin-bottom: 10px;
+        padding-top: 10px;
+        text-align: left;
+        font-size: 64px;
+        line-height: 130%;
+    }
+}
